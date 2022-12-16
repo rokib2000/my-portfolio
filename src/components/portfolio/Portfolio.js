@@ -1,10 +1,11 @@
 import React from "react";
+import "./Portfolio.css";
 
 const Portfolio = () => {
   return (
-    <div>
-      <h1>portfolio</h1>
-    </div>
+    <section className="work container section" id="work">
+      <h2 className="section_title">Projects</h2>
+    </section>
   );
 };
 
