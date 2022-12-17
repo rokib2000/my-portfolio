@@ -6,6 +6,7 @@ import Home from "./components/home/Home";
 import Portfolio from "./components/portfolio/Portfolio";
 import Resume from "./components/resume/Resume";
 import Sidebar from "./components/sidebar/Sidebar";
+import Skills from "./components/skills/Skills";
 import Testimonials from "./components/testimonials/Testimonials";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <main className="main">
         <Home />
         <About />
+        <Skills />
         <Portfolio />
         <Resume />
         {/* <Testimonials /> */}
