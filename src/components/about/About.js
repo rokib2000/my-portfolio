@@ -12,10 +12,14 @@ const About = () => {
         <div className="about_data grid">
           <div className="about_info">
             <p className="about_description">
-              I am Bolby Doe, web developer from London, United Kingdom. I have rich experience in web site design and
-              building and customization, also I am good at WordPress.
+              I am Md Nazrul Islam Rakib. I'm a web developer. I am an expert in Html, CSS, Tailwind, Bootstrap,
+              Javascript, ReactJS, Node Js, Firebase and MongoDB. As a web developer, I know everything about
+              front-end-developers from basic to advanced level. My previous learning experience strengthened my
+              abilities. I consider myself a quick learner, self-motivated, responsible, disciplined and
+              deadline-oriented person who can work under pressure and solve problems in complex situations with
+              analytical knowledge and latest technology.
             </p>
-            <a href="" className="btn">
+            <a href="#" className="btn">
               Download CV
             </a>
           </div>

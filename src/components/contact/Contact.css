@@ -11,6 +11,9 @@
   font-size: var(--h3-font-size);
   margin-bottom: 0.5rem;
 }
+.contact_info .home_socials {
+  justify-content: start;
+}
 
 .contact_form-group {
   display: grid;
@@ -65,6 +68,10 @@
   }
   .contact_info {
     text-align: center;
+  }
+
+  .contact_info .home_socials {
+    justify-content: center;
   }
 }
 

@@ -1,4 +1,5 @@
 import React from "react";
+import HeaderSocials from "../home/HeaderSocials";
 import "./Contact.css";
 
 const Contact = () => {
@@ -10,6 +11,13 @@ const Contact = () => {
         <div className="contact_info">
           <h3 className="contact_title">Let's talk about everything!</h3>
           <p className="contact_details">Don't like forms? Send me an email.</p>
+          <p className="contact_details">
+            Email: <a href="mailto:rokib0w1@gmail.com">rokib0w1@gmail.com</a>
+          </p>
+          <p className="contact_details">
+            Phone: <a href="tel:+8801741815113">+880 1741 815113</a>
+          </p>
+          <HeaderSocials />
         </div>
 
         <form action="" className="contact_form">
