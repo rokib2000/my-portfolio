@@ -9,7 +9,7 @@ const WorkCard = ({ item }) => {
         <div className="work_mask"></div>
       </div>
 
-      <a href="#" alt className="work_details">
+      <a href="#" className="work_details">
         See Details
       </a>
       <h3 className="work_title">{title}</h3>
