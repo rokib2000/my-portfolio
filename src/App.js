@@ -15,10 +15,10 @@ function App() {
       <main className="main">
         <Home />
         <About />
-        <Resume />
         <Portfolio />
-        <Testimonials />
-        <Blog />
+        <Resume />
+        {/* <Testimonials /> */}
+        {/* <Blog /> */}
         <Contact />
       </main>
     </>
